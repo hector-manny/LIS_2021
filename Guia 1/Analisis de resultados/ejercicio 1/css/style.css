@@ -1,0 +1,58 @@
+body{
+    background-color:  rgb(0, 0, 0);
+    color: rgb(rgb(18, 175, 4));
+    margin: auto;
+    padding: 8%;
+}
+h1{
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: rgb(0, 255, 0);
+    text-align: center;
+    font-style: italic;
+}
+.pasatiempos{
+    padding: auto;
+    margin: 20px;
+    text-align: justify;
+    color: rgb(0, 255, 0);
+}
+.pasatiempos h2{
+    color: rgb(0, 255, 0);
+    font-family:'Franklin Gothic Medium';
+    font-size: 30px;
+}
+.pasatiempos img{
+    padding: auto;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+.escucharmusica {
+    padding: auto;
+    margin: 20px;
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+.escucharmusica h2{
+    color:rgb(0, 250, 0);
+    text-align: left;
+    font-family: monospace;
+    font-size: 30px;
+}
+.escucharmusica img{
+    padding: auto;
+    margin-left: 30%;
+    margin-right: 40%;
+}
+.progra{
+    padding: auto;
+    margin: 20px;
+    text-align: left;
+    color: rgb(0, 255, 0);
+
+}
+.progra img{
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 20%;
+}
