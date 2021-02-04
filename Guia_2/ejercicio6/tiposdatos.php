@@ -53,6 +53,16 @@
         echo '</article>';
         echo "\n";
 
+        // cuarta operacion 
+        $concat = $str + $val;
+        echo '<article>';
+        echo '<p>El valor de $concat = $str + $val es: <span> = "'. $str . '"+' . $val . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
+
+        // quinta operacion
+        $concat
 
     
     ?>
