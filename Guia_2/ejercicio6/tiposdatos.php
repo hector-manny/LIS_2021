@@ -62,8 +62,59 @@
         echo "\n";
 
         // quinta operacion
-        $concat
+        $concat = $cad + $str;
+        echo '<article>';
+        echo '<p>El valor de $concat = $cad + $str es: <span> = "'. $cad . '"+' . $str . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
 
+        //sexta operacion
+
+        $concat = $val + $cad;
+        echo '<article>';
+        echo '<p>El valor de $concat = $val + $cad es: <span> = "'. $val . '"+' . $cad . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
+
+        //septima operacion
+
+        $concat = $num + $str;
+        echo '<article>';
+        echo '<p>El valor de $concat = $cad + $str es: <span> = "'. $num . '"+' . $str . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
+
+        //octava operacion
+
+        $concat = $num + $cad;
+        echo '<article>';
+        echo '<p>El valor de $concat = $num + $cad es: <span> = "'. $num . '"+' . $cad . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
+
+        //novena operacion 
+
+        $concat = $val + $str;
+        echo '<article>';
+        echo '<p>El valor de $concat = $val + $str es: <span> = "'. $val . '"+' . $str . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
+
+        //decima operacion 
+
+        $concat = $str + $cad;
+        echo '<article>';
+        echo '<p>El valor de $concat = $str + $cad es: <span> = "'. $str . '"+' . $cad . '</span> = <span>';
+        echo $concat . '</span> y el tipo de dato es : <span>' . gettype($concat) . "</span></p>" . SALTO;
+        echo '</article>';
+        echo "\n";
+        echo '</section>';
+        echo "\n";
     
     ?>
     
