@@ -7,20 +7,20 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <title>RegEx</title>
 </head>
-<body>
+<body >
 <br><br><br>
 
 <div class="row justify-content-md-center tarjeta">
         <div class="col-sm-8">
     <div class="card  border-dark text-center color ">
         <div class="card-header">
-         
+         <h2>Expresiones Regulares</h2>
         </div>
         <div class="card-body-md">
             <br>
             <br>
             <br>
-          <h5 class="card-title">Expresiones Regulares</h5>
+          <h5 class="card-title">Validacion de Formulario</h5>
           <br>
           <br>
           <form class="form-row" method="POST">
